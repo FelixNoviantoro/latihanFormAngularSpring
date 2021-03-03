@@ -1,0 +1,7 @@
+com/example/test/TestApplication.class
+com/example/test/model/Pendaftaran.class
+com/example/test/model/Login.class
+com/example/test/ui/Home.class
+com/example/test/Configuration.class
+com/example/test/model/Music.class
+com/example/test/repo/MasterData.class
