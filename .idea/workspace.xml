@@ -18,25 +18,17 @@
       <change afterPath="$PROJECT_DIR$/../.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/formpendaftaran" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test/TestApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test/model/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test/model/Pendaftaran.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test/repo/MasterData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/test/ui/Home.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/test/TestApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formpendaftaran/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/formpendaftaran/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formpendaftaran/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/formpendaftaran/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formpendaftaran/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/formpendaftaran/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formpendaftaran/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/formpendaftaran/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formpendaftaran/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/formpendaftaran/src/environments/environment.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formpendaftaran/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/formpendaftaran/src/polyfills.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/formpendaftaran/tsconfig.app.json" beforeDir="false" afterPath="$PROJECT_DIR$/formpendaftaran/tsconfig.app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/model/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test/model/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/model/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test/model/Music.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/repo/MasterData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test/repo/MasterData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/test/ui/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/test/ui/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/test/model/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/test/model/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/test/model/Music.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/test/model/Music.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/test/repo/MasterData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/test/repo/MasterData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/test/ui/Home.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/test/ui/Home.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +36,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -87,6 +79,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="491" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1614772476719">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1614772476719" />
     <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1614687726451">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

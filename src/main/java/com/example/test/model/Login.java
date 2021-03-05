@@ -33,7 +33,7 @@ public class Login {
         this.adminPassword = adminPassword;
     }
 
-    public boolean getAdminIsLogin() {
+    public boolean isAdminIsLogin() {
         return adminIsLogin;
     }
 
@@ -48,5 +48,4 @@ public class Login {
     public void setAdminJam(Time adminJam) {
         this.adminJam = adminJam;
     }
-
 }

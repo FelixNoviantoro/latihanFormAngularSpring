@@ -7,7 +7,7 @@ public class Music {
     private boolean musicGitarPop ;
     private boolean musicGitarElektrik ;
     private boolean musicBassElektrik ;
-    private boolean musicPianoElektrik ;
+    private boolean musicPianoKlasik ;
     private boolean musicPianoPop ;
     private boolean musicKeyboard ;
     private boolean musicDrum ;
@@ -55,12 +55,12 @@ public class Music {
         this.musicBassElektrik = musicBassElektrik;
     }
 
-    public boolean isMusicPianoElektrik() {
-        return musicPianoElektrik;
+    public boolean isMusicPianoKlasik() {
+        return musicPianoKlasik;
     }
 
-    public void setMusicPianoElektrik(boolean musicPianoElektrik) {
-        this.musicPianoElektrik = musicPianoElektrik;
+    public void setMusicPianoKlasik(boolean musicPianoKlasik) {
+        this.musicPianoKlasik = musicPianoKlasik;
     }
 
     public boolean isMusicPianoPop() {
